@@ -1,0 +1,15 @@
+node_modules
+dist
+.next
+out
+.vercel
+.turbo
+Screenshot*
+
+# Reference images and screenshots
+src/imports/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
