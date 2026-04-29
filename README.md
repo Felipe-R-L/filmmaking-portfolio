@@ -1,11 +1,3 @@
 
-  # Brutalist Cinematic Portfolio Design
-
-  This is a code bundle for Brutalist Cinematic Portfolio Design. The original project is available at https://www.figma.com/design/u4wBb06YAcSEvBfdfJAHK5/Brutalist-Cinematic-Portfolio-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+  # Brutalist Cinematic Portfolio Desing
+  This portfolio has a very specific filmmaking theme with neobrutalist inspirations
